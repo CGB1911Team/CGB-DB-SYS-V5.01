@@ -9,7 +9,7 @@ import lombok.Setter;
 import lombok.ToString;
 
 /**
- * 此类封装分页    信息的数据
+ * 此类封 装分页    信息  的数据
  * @author Administrator
  *
  * @param <T>
