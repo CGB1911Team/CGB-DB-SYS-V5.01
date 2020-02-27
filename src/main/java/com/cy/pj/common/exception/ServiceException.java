@@ -10,7 +10,7 @@ public class ServiceException extends RuntimeException{
 	private static final long serialVersionUID = -6143071993418352986L;
 
 	public ServiceException() {
-		super();
+		super();   
 		// TODO Auto-generated constructor stub
 	}
 
