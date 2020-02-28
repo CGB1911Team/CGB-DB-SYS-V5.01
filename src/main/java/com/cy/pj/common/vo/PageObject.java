@@ -9,7 +9,11 @@ import lombok.Setter;
 import lombok.ToString;
 
 /**
+<<<<<<< HEAD
  * 此类封 装  分页    信息   的数据
+=======
+ * 此类封装分页    信息的数据
+>>>>>>> branch 'master' of https://github.com/CGB1911Team/CGB-DB-SYS-V5.01.git
  * @author Administrator
  *
  * @param <T>
@@ -19,7 +23,7 @@ import lombok.ToString;
 @ToString
 @NoArgsConstructor
 public class PageObject<T> implements Serializable {
-
+//测试一下
 	private static final long serialVersionUID = -5445557439367144431L;
 
 	/**当前页的页码值*/
