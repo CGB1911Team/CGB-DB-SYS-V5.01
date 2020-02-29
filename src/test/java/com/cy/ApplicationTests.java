@@ -8,7 +8,6 @@ class ApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("我太难了T_T");
 	}
 
 }

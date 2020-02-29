@@ -1,8 +1,5 @@
 package com.cy.pj.sys.service;
 
-import java.util.List;
-
-import com.cy.pj.common.vo.PageObject;
 import com.cy.pj.sys.entity.SysLog;
 import com.github.pagehelper.PageInfo;
 
